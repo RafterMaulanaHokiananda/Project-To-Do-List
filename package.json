@@ -1,0 +1,24 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Project To Do List Using NodeJS Express MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafterMaulanaHokiananda/Project-To-Do-List.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sql"
+  ],
+  "author": "Rafter Maulana Hokiananda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafterMaulanaHokiananda/Project-To-Do-List/issues"
+  },
+  "homepage": "https://github.com/RafterMaulanaHokiananda/Project-To-Do-List#readme"
+}
